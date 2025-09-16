@@ -11,3 +11,6 @@
 # Allgemeine Python-Dateien
 __pycache__/
 *.pyc
+
+# Path for fma_small data set
+/.env.txt/
