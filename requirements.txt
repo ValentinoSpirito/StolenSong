@@ -1,0 +1,15 @@
+# --------- Core Dependencies ---------
+# These are essential for the project to run.
+
+numpy
+pandas
+scikit-learn
+librosa
+
+
+# --------- Optional for Notebooks & Visualization ---------
+# Install these if you want to experiment in Jupyter or plot data.
+
+matplotlib
+seaborn
+notebook

@@ -1,0 +1,13 @@
+# Virtuelle Umgebung
+/env/
+/.venv/
+
+# Daten
+/data/
+
+# Konfiguration & Geheimnisse
+.env
+
+# Allgemeine Python-Dateien
+__pycache__/
+*.pyc
